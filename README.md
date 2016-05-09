@@ -6,3 +6,5 @@ hello word!
 
 feature-B
 
+feature-C
+
